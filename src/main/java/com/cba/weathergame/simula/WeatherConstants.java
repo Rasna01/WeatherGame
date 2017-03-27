@@ -13,7 +13,7 @@ public final class WeatherConstants {
 	public static final String COMMA_DELIMITER = ",";
 
 	// Input and Output Files
-	public static final String OUTFILE = "C:\\Users\\cherdi02\\Documents\\weather_data.txt";
+	public static final String OUTFILE = "C:\\WeatherData\\weather_data.txt";
 	public static final String INFILE = "weather_seed.txt";
 
 	// Date Formats
